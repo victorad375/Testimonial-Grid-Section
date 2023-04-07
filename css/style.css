@@ -1,0 +1,138 @@
+
+.daniel{
+    border-radius: 50px;
+}
+
+.dboy{
+    font-size: 19px;
+    padding-left: 85px;
+    margin-top: -60px;
+    font-family: 'Franklin Gothic Medium';
+    color: white;
+}
+
+
+.vg{
+    font-size: 17px;
+    padding-left: 85px;
+    color: white;
+    margin-top: -13px;
+}
+.hd{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 23px;
+    color: white;
+    
+}
+
+.quote{
+    font-size: 16px;
+    color: white;
+}
+
+.symbol{
+    float: right;
+    padding-right: 20px;
+}
+
+.Daniel-Testimonial{
+    border: none;
+    background-color: rgb(78, 63, 216);
+    margin-left: 50px;
+    padding: 16px;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+.JT{
+    border: none;
+    background-color: gray;
+    padding: 15px;
+    width: fit-content;
+    border-radius: 10px;
+    position: relative;
+    top: -320px;
+    margin-left: 700px; 
+}
+
+.jonathan{
+    border-radius: 50px;
+    padding-top: 10px   ;
+}
+
+.jboy{
+    font-size: 19px;
+    padding-left: 85px;
+    margin-top: -60px;
+    font-family: 'Franklin Gothic Medium';
+    color: white;
+}
+
+.jbay{
+    font-size: 18px;
+    padding-left: 85px;
+    margin-top: -60px;
+    font-family: 'Franklin Gothic Medium';
+    color: white;
+}
+
+.vgg{
+    font-size: 15px;
+    padding-left: 85px;
+    color: white;
+    margin-top: -13px;
+}
+.hdd{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 20px;
+    color: white;
+}
+.quotee{
+    font-size: 17px;
+    color: white;
+}
+
+.Patrick-Testimonial{
+    border: none;
+    background-color: rgb(65, 63, 63);
+    margin-left:360px;
+    padding: 17px;
+    width: fit-content;
+    border-radius: 10px;
+    position: relative;
+    top: -313px
+}
+
+.JH{
+    border: none;
+    background-color: gray;
+    padding: 16px;
+    width: fit-content;
+    border-radius: 10px;
+    position: relative;
+    top: -620px;
+    margin-left: 50px;      
+}
+
+.KW{
+    border: none;
+    background-color: rgb(185, 185, 185);
+    margin-left: 1020px;
+    padding: 23px;
+    position: relative;
+    top:-1247px;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+.hhd{
+    font-family: 'Franklin Gothic Medium';
+    font-size: 23px;
+    color: black;
+}
+
+body{
+    background-color:lavender;
+    height: 650px;   
+}
+
